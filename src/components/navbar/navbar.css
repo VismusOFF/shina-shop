@@ -1,0 +1,36 @@
+.navbar {
+    width: 100vw;
+    background-color: #121212;
+}
+
+.auth-container-button {
+    margin-top: 40px;
+    width: 420px;
+    background-color: #F3F4F5;
+    height: 100px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    
+}
+
+.icon-auth {
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.auth-link {
+    text-decoration: none;
+    color: black;
+}
+
+.auth-link:hover {
+    text-decoration: none;
+    color: black;
+}
